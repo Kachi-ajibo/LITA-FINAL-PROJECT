@@ -24,8 +24,11 @@ Below is an image.
 ![Network ACLs](/Network-Config.png)
 ### Launched an EC2 instance.
  EC2 Instance is a virtual server in the cloud that provides computing resources, such as CPU,memory,and storage.
- I used an Amazon Machine Image (AMI)  Amazon Linux and a VPC that can allow traffic from anywhere in association with a public subnet.
+ I used an Amazon Machine Image (AMI)  Amazon Linux 2 and a VPC that can allow traffic from anywhere in association with a public subnet.
  This Ec2 instance is configured to meeet the need of Smart shop in the most unique way possible.
  Below is an image of it.
  ![EC2 Instance](/EC2-Instance.png)
+ ## Tested my EC2 instance to Comfirm it is working. I did this by running the public IP address on my broswer.
+ ![Apache](/Apache.png)
+ 
  
